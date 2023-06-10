@@ -1,4 +1,15 @@
 #ah {
     text-align: center;
-    color: blue;
+    color: rgb(0, 119, 255);
+    font-family: sans-serif;
+}
+
+#bh {
+    color: rgb(189, 188, 188);
+    font-family: sans-serif;
+}
+
+#ch {
+    color: rgb(158, 65, 65);
+    font-family: sans-serif;
 }
