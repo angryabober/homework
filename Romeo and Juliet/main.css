@@ -1,0 +1,63 @@
+#ah {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(0, 132, 255);
+    user-select: none;
+}
+
+#bh {
+    text-align: center;
+    background-color: rgb(29, 14, 240);
+    user-select: none;
+}
+
+.sht {
+    color: rgb(75, 75, 224);
+    background-color: rgb(0, 132, 255);
+    user-select: none;
+}
+
+#red {
+    color: brown;
+    background-color: rgb(221, 221, 221);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    text-align: center;
+    user-select: none;
+}
+
+#black {
+    color: rgb(0, 0, 0);
+    background-color: rgb(221, 221, 221);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    text-align: center;
+    user-select: none;
+}
+
+#oglav {
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    user-select: none;
+}
+
+#vyd {
+    color: rgb(0, 0, 0);
+    background-color:brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#vyd2 {
+    color: rgba(223, 80, 80, 0.774);
+    background-color: rgb(240, 240, 240);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#algn {
+    text-align: center;
+}
+
+.non:active {
+    color: brown;
+    display: none;
+}
