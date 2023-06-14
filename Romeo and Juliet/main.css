@@ -53,8 +53,14 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+#vydel {
+    color: brown;
+    background-color: rgb(221, 221, 221);
+    font-size: x-large;
+}
+
 #rsz {
-    font-size: larger;
+    font-size: x-large;
 }
 
 #algn {
