@@ -1,20 +1,27 @@
 .list {
-    background-color: rgb(193, 96, 96) ;
+    background-color: rgb(198, 99, 118) ;
     color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xx-large;
     border-collapse: collapse;
     margin-top: -15px;
-    padding-top: 0px;
-    padding-bottom: 0px;
+    
 }
 
 .reds {
-    background-color: rgb(164, 59, 71) ;
+    background-color: rgb(158, 53, 74) ;
     color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: larger;
     border-collapse: collapse;
     padding-left: 15px;
     padding-right: 15px;
+}
+
+#bck {
+    background-color: rgb(237, 158, 174);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
