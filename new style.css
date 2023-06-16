@@ -1,9 +1,10 @@
 .table {
-    background-color: rgb(169, 28, 28) ;
+    background-color: rgb(164, 59, 71) ;
     color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: large;
+    font-size: small;
     border-collapse: collapse;
+    margin-top: -3px;
 }
 
 .table th, .table td {
@@ -12,10 +13,10 @@
 }
 
 #abobrec {
-    background-color: rgb(255, 72, 93) ;
+    background-color: rgb(206, 95, 108) ;
     color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: x-large;
+    font-size: large;
     border-collapse: collapse;
     padding-left: 15px;
     padding-right: 15px;
