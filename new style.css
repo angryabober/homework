@@ -1,22 +1,19 @@
-.table {
+.list {
+    background-color: rgb(193, 96, 96) ;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    border-collapse: collapse;
+    margin-top: -15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.reds {
     background-color: rgb(164, 59, 71) ;
     color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: small;
-    border-collapse: collapse;
-    margin-top: -3px;
-}
-
-.table th, .table td {
-    text-align: center;
-    padding: 10px;
-}
-
-#abobrec {
-    background-color: rgb(206, 95, 108) ;
-    color: rgb(255, 255, 255);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: large;
+    font-size: larger;
     border-collapse: collapse;
     padding-left: 15px;
     padding-right: 15px;
