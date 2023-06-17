@@ -6,22 +6,22 @@
 
 .content-table td {
     padding: 12px 15px;
-    padding-right: 1000px;
-    padding-left: 50px;
+    padding-right: 900px;
+    padding-left: 53px;
 }
 
 #done {
     padding: 12px 15px;
-    padding-right: 1000px;
+    padding-right: 900px;
     padding-left: 50px;
     background-color: rgb(225, 225, 225);
 }
 
 .content-table tr:nth-of-type(even) {
-background-color: rgb(87, 205, 241);
+background-color: rgb(165, 204, 218);
 }
 .content-table tr:nth-of-type(odd) {
-    background-color: rgb(59, 184, 234);
+    background-color: rgb(173, 216, 230);
 }
 
 .prs {
