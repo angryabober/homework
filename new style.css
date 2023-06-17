@@ -26,7 +26,7 @@
     padding-right: 20px;
 }
 
-.contain {
+.container {
     max-width: 1170px;
     margin: auto;
     padding: 0 15px;
@@ -46,11 +46,11 @@ border-collapse: collapse;
     padding: 5px;
 }
 
-.table th{
-    background-color: rgb(29, 60, 92);
+.table tr{
+    background-color: rgb(165, 195, 225);
     color: black;
 }
 
-.table tr :nth-child(even) {
+.table tr :nth-last-of-type(even) {
     background: #6581b1;
 }
