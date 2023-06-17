@@ -6,8 +6,15 @@
 
 .content-table td {
     padding: 12px 15px;
-    padding-right: 1070px;
+    padding-right: 1030px;
     padding-left: 50px;
+}
+
+#done {
+    padding: 12px 15px;
+    padding-right: 1030px;
+    padding-left: 50px;
+    background-color: rgb(225, 225, 225);
 }
 
 .content-table tr:nth-of-type(even) {
@@ -15,4 +22,4 @@ background-color: rgb(87, 205, 241);
 }
 .content-table tr:nth-of-type(odd) {
     background-color: rgb(59, 184, 234);
-    }
+}
