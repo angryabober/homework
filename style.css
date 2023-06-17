@@ -23,3 +23,8 @@ background-color: rgb(87, 205, 241);
 .content-table tr:nth-of-type(odd) {
     background-color: rgb(59, 184, 234);
 }
+
+.prs {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
