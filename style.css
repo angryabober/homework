@@ -41,3 +41,8 @@ background-color: rgb(165, 204, 218);
 *{
     background-color: rgb(241, 241, 241);
 }
+
+#thrd {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(52, 29, 104);
+}
