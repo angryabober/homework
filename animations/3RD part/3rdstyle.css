@@ -1,80 +1,25 @@
-.bch{
+.bch {
     background-color: rgb(255, 255, 255);
-    padding-top: 100px;
-    padding-bottom: 100px;
-    padding-left: 98px;
-    padding-right: 150px;
-    margin-top: -11px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    padding-left: 140px;
+    padding-right: 140px;
+    margin-top: 0px;
     margin-left: -11px;
     transition: all 0.3s;
 }
 
-.bch:hover{
-    background-color: rgb(138, 138, 138);
+.bch:hover {
+    background-color: rgb(198, 198, 198);
 }
 
-.mch{
-    scale: 106%;
+.mch {
     margin-top: -27px;
-    padding-left: 9px;
+    padding-left: 0px;
     transition: all 1s;
 }
 
-.mch:hover{
+.mch:hover {
     opacity: 0.6;
-}
-
-
-
-.bch2{
-    background-color: rgb(255, 255, 255);
-    padding-top: 100px;
-    padding-bottom: 100px;
-    padding-left: 150px;
-    padding-right: 107px;
-    margin-top: -23px;
-    margin-left: -11px;
-    transition: all 0.3s;
-}
-
-.bch2:hover{
-    background-color: rgb(138, 138, 138);
-}
-
-.mch2{
-    scale: 106%;
-    margin-top: -39px;
-    transition: all 1s;
-}
-
-.mch2:hover{
-    opacity: 0.6;
-}
-
-
-
-.bch3{
-    background-color: rgb(255, 255, 255);
-    padding-top: 100px;
-    padding-bottom: 100px;
-    padding-left: 98px;
-    padding-right: 150px;
-    margin-top: -23px;
-    margin-left: -11px;
-    transition: all 0.3s;
-}
-
-.bch3:hover{
-    background-color: rgb(138, 138, 138);
-}
-
-.mch3{
-    scale: 106%;
-    margin-top: -39px;
-    padding-left: 9px;
-    transition: all 1s;
-}
-
-.mch3:hover{
-    opacity: 0.6;
+    scale: 1.2;
 }
