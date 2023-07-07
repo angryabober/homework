@@ -1,11 +1,11 @@
 .bch {
     background-color: rgb(255, 255, 255);
-    padding-top: 90px;
-    padding-bottom: 90px;
-    padding-left: 140px;
-    padding-right: 140px;
-    margin-top: 0px;
-    margin-left: -11px;
+    padding-top: 93px;
+    padding-bottom: 93px;
+    padding-left: 110px;
+    padding-right: 70px;
+    margin-top: 5px;
+    margin-bottom: 13px;
     transition: all 0.3s;
 }
 
@@ -14,12 +14,46 @@
 }
 
 .mch {
-    margin-top: -27px;
-    padding-left: 0px;
     transition: all 1s;
+    scale: 1;
 }
 
 .mch:hover {
     opacity: 0.6;
     scale: 1.2;
+}
+
+
+
+.bch2 {
+    background-color: rgb(255, 255, 255);
+    padding-top: 93px;
+    padding-bottom: 93px;
+    padding-left: 110px;
+    padding-right: 70px;
+    margin-top: 5px;
+    margin-bottom: 13px;
+    transition: all 0.3s;
+}
+
+.bch2:hover {
+    background-color: rgb(198, 198, 198);
+}
+
+.mch2 {
+    transition: all 1s;
+    scale: 1;
+}
+
+.mch2:hover {
+    opacity: 0.6;
+    scale: 1.2;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    padding: 0px;
 }
