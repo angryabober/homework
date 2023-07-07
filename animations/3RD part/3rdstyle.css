@@ -9,19 +9,14 @@
     transition: all 0.3s;
 }
 
-.bch:hover {
-    background-color: rgb(198, 198, 198);
-}
+
 
 .mch {
     transition: all 1s;
     scale: 1;
 }
 
-.mch:hover {
-    opacity: 0.6;
-    scale: 1.2;
-}
+
 
 
 
@@ -36,18 +31,9 @@
     transition: all 0.3s;
 }
 
-.bch2:hover {
-    background-color: rgb(198, 198, 198);
-}
-
 .mch2 {
     transition: all 1s;
     scale: 1;
-}
-
-.mch2:hover {
-    opacity: 0.6;
-    scale: 1.2;
 }
 
 table{
@@ -56,4 +42,22 @@ table{
 
 td{
     padding: 0px;
+}
+
+.hvrL:hover .mch {
+    opacity: 0.6;
+    scale: 1.2;
+}
+
+.hvrL:hover .bch {
+    background-color: rgb(198, 198, 198);
+}
+
+.hvrR:hover .mch2 {
+    opacity: 0.6;
+    scale: 1.2;
+}
+
+.hvrR:hover .bch2 {
+    background-color: rgb(198, 198, 198);
 }
