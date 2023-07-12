@@ -1,0 +1,42 @@
+.prgb{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    margin-top: 150px;
+    margin-left: 150px;
+    animation: progressbar 10s linear infinite ;
+}
+.bck{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 145px;
+    width: 1000px;
+    height: 200px;
+    border: solid 10px orange;
+}
+
+@keyframes progressbar{
+    0%{
+        margin-left: -60px;
+    }
+    100%{
+        margin-left: 1160px;
+    }
+}
+
+.bckstripe1 {
+    position: absolute;
+    width: 200px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    margin-left: -55px;
+}
+
+.bckstripe2 {
+    position: absolute;
+    width: 200px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 1165px;
+}
