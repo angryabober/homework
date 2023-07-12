@@ -1,3 +1,9 @@
-.heart{
-    background-image: url(favorites.png);
+img:hover{
+    transition: all 5s;
+    scale: 1.5;
+    filter: grayscale(5%);
+}
+
+img{
+    filter: grayscale(100%);
 }
