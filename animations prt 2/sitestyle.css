@@ -1,0 +1,31 @@
+.calc{
+    scale: 0.7;
+    animation: calcul 2s ease-in;
+    margin-top: 400px;
+}
+
+.book{
+    scale: 0.7;
+    animation: book 2s ease-in;
+    margin-left: 300px;
+    animation-delay: 0.5s;
+    margin-top: 400px;
+}
+
+@keyframes calcul{
+    0%{
+        margin-top: 0px;
+    }
+    100%{
+        margin-top: 150px;
+    }
+}
+
+@keyframes book{
+    0%{
+        margin-top: 0px;
+    }
+    100%{
+        margin-top: 150px;
+    }
+}
