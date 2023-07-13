@@ -1,13 +1,36 @@
 .calc{
     animation: calcul 2s;
-    animation-delay: 5s;
+    animation-delay: 0s;
     margin-top: 550px;
     transform: rotate(-25deg);
     scale: 0.7;
     margin-left: -100px;
+    animation-fill-mode: forwards;
 }
 
 @keyframes calcul{
+    0%{
+        margin-top: 550px;
+    }
+    100%{
+        margin-top: 0px;
+    }
+}
+
+
+
+.calc{
+    animation: book 2s;
+    animation-delay: 0.5s;
+    margin-top: 550px;
+    transform: rotate(-25deg);
+    scale: 0.7;
+    margin-left: -100px;
+    animation-fill-mode: forwards;
+    margin-left: 150px;
+}
+
+@keyframes book{
     0%{
         margin-top: 550px;
     }
