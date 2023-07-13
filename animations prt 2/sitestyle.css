@@ -1,10 +1,11 @@
 .calc{
+    position: absolute;
     animation: calcul 2s;
     animation-delay: 0s;
     margin-top: 550px;
     transform: rotate(-25deg);
     scale: 0.7;
-    margin-left: -100px;
+    margin-left: 100px;
     animation-fill-mode: forwards;
 }
 
@@ -13,21 +14,21 @@
         margin-top: 550px;
     }
     100%{
-        margin-top: 0px;
+        margin-top: 160px;
     }
 }
 
 
 
-.calc{
+.book{
+    position: absolute;
     animation: book 2s;
     animation-delay: 0.5s;
     margin-top: 550px;
-    transform: rotate(-25deg);
-    scale: 0.7;
-    margin-left: -100px;
+    transform: rotate(-15deg);
+    scale: 0.8;
+    margin-left: 300px;
     animation-fill-mode: forwards;
-    margin-left: 150px;
 }
 
 @keyframes book{
@@ -35,6 +36,76 @@
         margin-top: 550px;
     }
     100%{
-        margin-top: 0px;
+        margin-top: 100px;
     }
+}
+
+
+
+.notepad{
+    position: absolute;
+    animation: pad 2s;
+    animation-delay: 1s;
+    margin-top: 550px;
+    transform: rotate(15deg);
+    scale: 0.8;
+    margin-left: 500px;
+    animation-fill-mode: forwards;
+}
+
+@keyframes pad{
+    0%{
+        margin-top: 550px;
+    }
+    100%{
+        margin-top: 100px;
+    }
+}
+
+
+
+.palette{
+    position: absolute;
+    animation: palet 2s;
+    animation-delay: 1.5s;
+    margin-top: 550px;
+    transform: rotate(205deg);
+    scale: 0.7;
+    margin-left: 700px;
+    animation-fill-mode: forwards;
+}
+
+@keyframes palet{
+    0%{
+        margin-top: 550px;
+    }
+    100%{
+        margin-top: 160px;
+    }
+}
+
+
+
+.pencil{
+    position: absolute;
+    animation: pen 2s;
+    animation-delay: 2s;
+    margin-top: 550px;
+    transform: rotate(90deg);
+    scale: 0.7;
+    margin-left: 460px;
+    animation-fill-mode: forwards;
+}
+
+@keyframes pen{
+    0%{
+        margin-top: 550px;
+    }
+    100%{
+        margin-top: 340px;
+    }
+}
+
+body{
+    background-color: rgb(249, 243, 174);
 }
