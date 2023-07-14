@@ -1,0 +1,43 @@
+body{
+background-color: rgb(28, 78, 58);
+}
+
+.articls{
+    color: rgb(97, 97, 97);
+}
+
+.oglav{
+    color: white;
+}
+
+.mn1{
+    margin-left: 50px;
+}
+
+.mn2{
+    margin-left: 50px;
+    margin-top: -15px;
+}
+
+.mn3{
+    margin-left: 180px;
+    margin-top: -65px;
+}
+
+.mn4{
+    margin-left: 180px;
+    margin-top: -15px;
+}
+
+.contain1{
+    display: flex;
+}
+
+@media screen and (min-width:600px){
+   
+}
+
+.contain2{
+    margin-left: 300px;
+    margin-top: -100px;
+}
