@@ -19,11 +19,19 @@
 }
 
 .imgcont1{
-    margin-left: 350px;
+    margin-left: 400px;
     margin-top: -500px;
 }
 
 .imgcont2{
-    margin-left: 350px;
+    margin-left: 400px;
     margin-top: -40px;
+}
+
+.texttop2{
+    margin-top: -380px;
+}
+
+.texttop3{
+    margin-top: 40px;
 }
