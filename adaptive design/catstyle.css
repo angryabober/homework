@@ -7,3 +7,23 @@
     margin-top: -285px;
     margin-left: 420px;
 }
+
+.under2{
+    height: 80px;
+    width: 360px;
+    background-color: rgb(42, 42, 108);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: -149px;
+    margin-left: 420px;
+}
+
+.imgcont1{
+    margin-left: 350px;
+    margin-top: -500px;
+}
+
+.imgcont2{
+    margin-left: 350px;
+    margin-top: -40px;
+}
