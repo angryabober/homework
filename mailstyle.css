@@ -28,6 +28,16 @@
     .mail1{
         margin-right: -750px;
     }
+    .contlocation{
+        margin-left: -355px;
+        margin-top: -20px;
+    }
+    .contheader{
+        margin-left: -130px;
+        margin-top: -10px;
+    }
+    
+    
 }
 
 .mail1{
@@ -44,3 +54,4 @@
     scale: 0.8;
     margin-left: -130px;
 }
+
