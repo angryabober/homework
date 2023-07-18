@@ -1,4 +1,4 @@
-.hed{
+.hed {
     color: white;
     background-color: rgb(34, 100, 100);
     padding-left: 15px;
@@ -9,39 +9,24 @@
     padding-right: 100px;
 }
 
-.board1{
+.board1 {
     width: 340px;
-    height: 470px;
-    background-color: rgb(225, 225, 225);
+    height: 500px;
+    background-color: rgb(199, 199, 199);
     border-radius: 5px;
+    overflow: auto;
 }
 
-.bar1{
-    width: 310px;
-    height: 110px;
-    background-color: rgb(244, 244, 244);
-    border-radius: 5px;
+.scrollbars>.contrll1>h3{
+    background-color: rgb(220, 220, 220);
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 70px;
+    padding-right: 75px;
     margin-left: 15px;
-    position: absolute;
-    margin-top: 45px;
+    display: inline-flex;
+    border-radius: 5px;
 }
-
-.bar2{
-    width: 310px;
-    height: 110px;
-    background-color: rgb(244, 244, 244);
-    border-radius: 5px;
-    margin-left: 15px;
-    position: absolute;
-    margin-top: 165px;
-}
-
-.bar3{
-    width: 310px;
-    height: 110px;
-    background-color: rgb(244, 244, 244);
-    border-radius: 5px;
-    margin-left: 15px;
-    position: absolute;
-    margin-top: 285px;
+.contrll1{
+    margin-top: 20px;
 }
