@@ -15,9 +15,10 @@
     background-color: rgb(199, 199, 199);
     border-radius: 5px;
     overflow: auto;
+    overflow-y: hidden;
 }
 
-.scrollbars>.contrll1>h3{
+.scrollbars>.contrll1>h3 {
     background-color: rgb(220, 220, 220);
     padding-left: 10px;
     padding-top: 10px;
@@ -27,6 +28,29 @@
     display: inline-flex;
     border-radius: 5px;
 }
-.contrll1{
+
+.contrll1 {
     margin-top: 20px;
+}
+
+.board2 {
+    width: 340px;
+    height: 500px;
+    background-color: rgb(199, 199, 199);
+    border-radius: 5px;
+    overflow: auto;
+    overflow-y: hidden;
+    margin-left: 360px;
+    margin-top: -500px;
+}
+
+.board3 {
+    width: 340px;
+    height: 500px;
+    background-color: rgb(199, 199, 199);
+    border-radius: 5px;
+    overflow: auto;
+    overflow-y: hidden;
+    margin-left: 720px;
+    margin-top: -500px;
 }
