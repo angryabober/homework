@@ -1,0 +1,95 @@
+.user1{
+    margin-top: 50px;
+    margin-left: 90px;
+}
+
+.message1us1{
+    width: 450px;
+    height: 85px;
+    background-color: rgb(239, 168, 168);
+    margin-top: -85px;
+    margin-left: 280px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.m2{
+    margin-top: -20px;
+}
+
+.message2us2{
+    width: 450px;
+    height: 65px;
+    background-color: rgb(168, 216, 239);
+    margin-top: -85px;
+    margin-left: 280px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.user2{
+    margin-top: 50px;
+    margin-left: 800px;
+}
+
+.message1us2{
+    width: 450px;
+    height: 65px;
+    background-color: rgb(239, 168, 168);
+    margin-top: -65px;
+    margin-left: 280px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.m3{
+    margin-top: -40px;
+}
+
+.message4us4{
+    width: 450px;
+    height: 85px;
+    background-color: rgb(168, 216, 239);
+    margin-top: -85px;
+    margin-left: 280px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.m4{
+    margin-top: -20px;
+}
+
+.message5us5{
+    width: 450px;
+    height: 85px;
+    background-color: rgb(239, 168, 168);
+    margin-top: -85px;
+    margin-left: 280px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.m5{
+    margin-top: -20px;
+}
+
+.m6{
+    margin-top: -20px;
+}
+
+.message6us6{
+    width: 450px;
+    height: 65px;
+    background-color: rgb(168, 216, 239);
+    margin-top: -85px;
+    margin-left: 280px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
