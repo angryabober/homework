@@ -57,10 +57,9 @@
 }
 
 
-.podmenu:hover .vidvmenu{
-    margin-top: 100px;
+.podmenu:hover .vidvmenubg{
+    margin-top: -1px;
     transition: all 0.5s;
-    position: absolute;
 }
 
 .vidvmenu{
@@ -76,4 +75,8 @@
     color: white;
     margin-left: 75px;
     margin-top: 11px;
+}
+
+.vidvmenubg{
+    margin-top: -293px;
 }
