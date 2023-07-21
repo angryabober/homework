@@ -1,52 +1,20 @@
+.flextest{
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .br1 {
     width: 350px;
     height: 500px;
     background-color: whitesmoke;
+    margin-top: 15px;
+}
+
+.br1>img{
+    margin-top: 0px;
+}
+
+.br1>h2{
     margin-left: 15px;
-    margin-top: 25px;
-    display: flex;
-}
-
-.brs1 {
-    width: 350px;
-    height: 150px;
-    background-color: rgb(188, 188, 188);
-    margin-left: 15px;
-    margin-top: -500px;
-    display: flex;
-}
-
-body {
-    background-color: rgb(121, 193, 218);
-}
-
-.br2 {
-    width: 350px;
-    height: 400px;
-    background-color: whitesmoke;
-    margin-left: 15px;
-    margin-top: 25px;
-    display: flex;
-}
-
-.brs2 {
-    width: 350px;
-    height: 100px;
-    background-color: rgb(188, 188, 188);
-    margin-left: 15px;
-    margin-top: -400px;
-    display: flex;
-}
-
-.loc2{
-    margin-left: -520px;
-}
-
-.loc1{
-    margin-left: -550px;
-}
-
-.flextest{
-    display: flex;
-    justify-content: space-evenly;
+    margin-top: 10px;
 }
