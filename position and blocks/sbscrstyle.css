@@ -10,7 +10,7 @@ td:nth-child(odd) {
 }
 
 tr:nth-child(even) {
-    background-color: rgb(229, 240, 248);
+    background-color: rgb(211, 231, 245);
 }
 
 tr:nth-child(odd) {
@@ -18,9 +18,10 @@ tr:nth-child(odd) {
 }
 
 table {
-    scale: 1;
-    margin-left: 235px;
-    margin-top: 100px;
+    scale: 1.15;
+    margin-left: 75px;
+    margin-top: 30px;
+    border-collapse: collapse;
 }
 
 .starttop {
@@ -103,4 +104,25 @@ table {
     color: whitesmoke;
     margin-left: 1px;
     margin-top: -3px;
+}
+
+.permonth {
+    position: absolute;
+    color: whitesmoke;
+    margin-left: -29px;
+    margin-top: 33px;
+}
+
+.startnow{
+    width: 100px;
+    height: 45px;
+    background-color: rgb(206, 206, 206);
+    border: 1px solid rgb(120, 120, 120);
+    margin-top: -25px;
+}
+
+.startnow>h3{
+    color: rgb(84, 84, 84);
+    margin-left: 20px;
+    margin-top: 13px;
 }
