@@ -1,0 +1,12 @@
+.butn1{
+    width: 216px;
+    height: 60px;
+    background-color: rgb(54, 199, 136);
+    border: 2px solid rgb(38, 158, 106);
+}
+
+.butn1>h1{
+    color: white;
+    margin-left: 65px;
+    margin-top: 11px;
+}
