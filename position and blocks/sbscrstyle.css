@@ -1,24 +1,106 @@
-td{
+td {
     padding-top: 15px;
     padding-bottom: 15px;
     padding-left: 40px;
     padding-right: 40px;
 }
 
-td:nth-child(odd){
+td:nth-child(odd) {
     backdrop-filter: grayscale(50%);
 }
 
-tr:nth-child(even){
+tr:nth-child(even) {
     background-color: rgb(229, 240, 248);
 }
 
-tr:nth-child(odd){
+tr:nth-child(odd) {
     background-color: rgb(235, 241, 246);
 }
 
-table{
+table {
     scale: 1;
     margin-left: 235px;
     margin-top: 100px;
+}
+
+.starttop {
+    padding-right: 120px;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(166, 173, 212);
+}
+
+.top {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(106, 120, 198);
+}
+
+.top2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(82, 92, 152);
+}
+
+.top3 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(60, 68, 111);
+}
+
+.top4 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(31, 35, 57);
+}
+
+.start {
+    padding-right: 120px;
+    padding-left: 50px;
+}
+
+.startbottom {
+    padding-right: 120px;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+
+.bottom {
+    padding-top: 40px;
+}
+
+.starter {
+    position: absolute;
+    margin-left: -11px;
+    color: whitesmoke;
+    margin-top: -60px;
+}
+
+.econom {
+    position: absolute;
+    margin-left: -17px;
+    color: whitesmoke;
+    margin-top: -60px;
+}
+
+.standart {
+    position: absolute;
+    margin-left: -19px;
+    color: whitesmoke;
+    margin-top: -60px;
+}
+
+.professional {
+    position: absolute;
+    margin-left: -29px;
+    color: whitesmoke;
+    margin-top: -60px;
+}
+
+.price {
+    position: absolute;
+    color: whitesmoke;
+    margin-left: 1px;
+    margin-top: -3px;
 }
