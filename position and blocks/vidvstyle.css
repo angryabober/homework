@@ -56,8 +56,24 @@
     margin-top: 11px;
 }
 
-.somesht{
-    width: 100px;
-    height: 100px;
-    background-color: red;
+
+.podmenu:hover .vidvmenu{
+    margin-top: 100px;
+    transition: all 0.5s;
+    position: absolute;
+}
+
+.vidvmenu{
+    width: 216px;
+    height: 60px;
+    background-color: rgb(54, 199, 136);
+    border: 2px solid rgb(38, 158, 106);
+    margin-left: 220px;
+    margin-top: 0px;
+}
+
+.vidvmenu>h1{
+    color: white;
+    margin-left: 75px;
+    margin-top: 11px;
 }
