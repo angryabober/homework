@@ -1,0 +1,17 @@
+td{
+    background-color: rgb(235, 241, 246);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+td:nth-child(odd){
+    filter: grayscale(230%);
+}
+
+table{
+    scale: 1.62;
+    margin-left: 235px;
+    margin-top: 100px;
+}
