@@ -2,18 +2,11 @@
     height: 50px;
     width: 100%;
     background-color: brown;
-    display: flex;
-    position: sticky;
+    position: fixed;
+    margin-top: -10px;
 }
 
-.hednbg{
-    display: flex;
-    position: sticky;
-}
-
-.text{
-    width: 400px;
-    height: 600px;
-    margin-top: 600px;
-    background-color: blue;
+.hedtxt{
+    margin-top: -7px;
+    color: white;
 }
