@@ -10,3 +10,9 @@
     margin-top: -7px;
     color: white;
 }
+
+.hedtxt2{
+    color: white;
+    background-color: rgb(114, 29, 29);
+    display: inline-flex;
+}
