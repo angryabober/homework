@@ -202,6 +202,7 @@
 .vidvmenubg2{
     margin-left: 220px;
     margin-top: -628px;
+    position: absolute;
 }
 
 .vidvmenu4:hover{
@@ -219,7 +220,12 @@
     transition: all 0.1s;
 }
 
-.menu>.vidvmenubg:hover .menu>.vidvmenubg2{
-    margin-left: 220px;
-    margin-top: -128px;
+.vidvmenu2:hover .vidvmenubg2{
+    margin-top: -71px;
+    margin-left: -2px;
+}
+
+.text{
+    position: absolute;
+    margin-top: 100px;
 }
