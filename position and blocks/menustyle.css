@@ -1,5 +1,5 @@
 .hedn{
-    height: 50px;
+    height: 56px;
     width: 100%;
     background-color: brown;
     position: fixed;
@@ -15,4 +15,8 @@
     color: white;
     background-color: rgb(114, 29, 29);
     display: inline-flex;
+    position: absolute;
+    margin-top: -57px;
+    padding-top: -5px;
+    padding-bottom: -5px;
 }
