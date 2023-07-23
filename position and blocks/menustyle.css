@@ -65,10 +65,20 @@
 }
 
 .obvd1{
-    width: 1050px;
+    width: 1070px;
     height: 300px;
     border: 2px solid rgb(61, 61, 61);;
     margin-top: 1100px;
     position: absolute;
     margin-left: 100px;
+}
+
+.obvd1>img{
+    scale: 0.5;
+    position: absolute;
+    margin-top: -90px;
+}
+
+.obvd1>h3{
+    position: absolute;
 }
