@@ -224,3 +224,9 @@
     margin-top: -71px;
     margin-left: -2px;
 }
+
+.text{
+    position: absolute;
+    margin-top: 100px;
+    z-index: 1;
+}
