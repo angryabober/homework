@@ -1,17 +1,17 @@
-.butn1{
+.butn1 {
     width: 216px;
     height: 60px;
     background-color: rgb(54, 199, 136);
     border: 2px solid rgb(38, 158, 106);
 }
 
-.butn1>h1{
+.butn1>h1 {
     color: white;
     margin-left: 65px;
     margin-top: 11px;
 }
 
-.butn2{
+.butn2 {
     width: 216px;
     height: 60px;
     background-color: rgb(54, 199, 136);
@@ -20,13 +20,13 @@
     margin-top: -64px;
 }
 
-.butn2>h1{
+.butn2>h1 {
     color: white;
     margin-left: 40px;
     margin-top: 11px;
 }
 
-.butn3{
+.butn3 {
     width: 216px;
     height: 60px;
     background-color: rgb(54, 199, 136);
@@ -35,13 +35,13 @@
     margin-top: -64px;
 }
 
-.butn3>h1{
+.butn3>h1 {
     color: white;
     margin-left: 65px;
     margin-top: 11px;
 }
 
-.butn4{
+.butn4 {
     width: 216px;
     height: 60px;
     background-color: rgb(54, 199, 136);
@@ -50,19 +50,19 @@
     margin-top: -64px;
 }
 
-.butn4>h1{
+.butn4>h1 {
     color: white;
     margin-left: 50px;
     margin-top: 11px;
 }
 
 
-.podmenu:hover .vidvmenubg{
+.podmenu:hover .vidvmenubg {
     margin-top: -1px;
     transition: all 0.5s;
 }
 
-.vidvmenu{
+.vidvmenu {
     width: 216px;
     height: 60px;
     background-color: rgb(54, 199, 136);
@@ -71,13 +71,13 @@
     margin-top: 0px;
 }
 
-.vidvmenu>h1{
+.vidvmenu>h1 {
     color: white;
     margin-left: 75px;
     margin-top: 11px;
 }
 
-.vidvmenu3{
+.vidvmenu3 {
     width: 216px;
     height: 60px;
     background-color: rgb(54, 199, 136);
@@ -86,13 +86,13 @@
     margin-top: 0px;
 }
 
-.vidvmenu3>h1{
+.vidvmenu3>h1 {
     color: white;
     margin-left: 75px;
     margin-top: 11px;
 }
 
-.vidvmenu2{
+.vidvmenu2 {
     width: 216px;
     height: 60px;
     background-color: rgb(54, 199, 136);
@@ -101,47 +101,47 @@
     margin-top: 0px;
 }
 
-.vidvmenu2>h1{
+.vidvmenu2>h1 {
     color: white;
     margin-left: 75px;
     margin-top: 11px;
 }
 
-.vidvmenubg{
+.vidvmenubg {
     margin-top: -293px;
 }
 
-.butn1:hover{
+.butn1:hover {
     background-color: rgb(38, 158, 106);
     transition: all 0.1s;
 }
 
-.butn2:hover{
+.butn2:hover {
     background-color: rgb(38, 158, 106);
     transition: all 0.1s;
 }
 
-.butn3:hover{
+.butn3:hover {
     background-color: rgb(38, 158, 106);
     transition: all 0.1s;
 }
 
-.butn4:hover{
+.butn4:hover {
     background-color: rgb(38, 158, 106);
     transition: all 0.1s;
 }
 
-.vidvmenu:hover{
+.vidvmenu:hover {
     background-color: rgb(38, 158, 106);
     transition: all 0.1s;
 }
 
-.vidvmenu2:hover{
+.vidvmenu2:hover {
     background-color: rgb(38, 158, 106);
     transition: all 0.1s;
 }
 
-.vidvmenu3:hover{
+.vidvmenu3:hover {
     background-color: rgb(38, 158, 106);
     transition: all 0.1s;
 }
@@ -154,7 +154,7 @@
 
 
 
-.vidvmenu4{
+.vidvmenu4 {
     width: 216px;
     height: 60px;
     background-color: rgb(54, 199, 136);
@@ -163,13 +163,13 @@
     margin-top: 0px;
 }
 
-.vidvmenu4>h1{
+.vidvmenu4>h1 {
     color: white;
     margin-left: 75px;
     margin-top: 11px;
 }
 
-.vidvmenu5{
+.vidvmenu5 {
     width: 216px;
     height: 60px;
     background-color: rgb(54, 199, 136);
@@ -178,13 +178,13 @@
     margin-top: 0px;
 }
 
-.vidvmenu5>h1{
+.vidvmenu5>h1 {
     color: white;
     margin-left: 75px;
     margin-top: 11px;
 }
 
-.vidvmenu6{
+.vidvmenu6 {
     width: 216px;
     height: 60px;
     background-color: rgb(54, 199, 136);
@@ -193,39 +193,39 @@
     margin-top: 0px;
 }
 
-.vidvmenu6>h1{
+.vidvmenu6>h1 {
     color: white;
     margin-left: 75px;
     margin-top: 11px;
 }
 
-.vidvmenubg2{
+.vidvmenubg2 {
     margin-left: 220px;
     margin-top: -628px;
     position: absolute;
 }
 
-.vidvmenu4:hover{
+.vidvmenu4:hover {
     background-color: rgb(38, 158, 106);
     transition: all 0.1s;
 }
 
-.vidvmenu5:hover{
+.vidvmenu5:hover {
     background-color: rgb(38, 158, 106);
     transition: all 0.1s;
 }
 
-.vidvmenu6:hover{
+.vidvmenu6:hover {
     background-color: rgb(38, 158, 106);
     transition: all 0.1s;
 }
 
-.vidvmenu2:hover .vidvmenubg2{
+.vidvmenu2:hover .vidvmenubg2 {
     margin-top: -71px;
     margin-left: -2px;
 }
 
-.text{
-    margin-top: 100px;
+.text {
     position: absolute;
+    margin-top: 500px;
 }
