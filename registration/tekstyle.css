@@ -67,3 +67,47 @@
     margin-left: 155px;
     scale: 1.3;
 }
+
+
+
+.lbl3{
+    position: absolute;
+    scale: 1.5;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.lbl4{
+    position: absolute;
+    scale: 1.5;
+    margin-left: 20px;
+    margin-top: 77px;
+}
+
+.lbl5{
+    position: absolute;
+    scale: 1.5;
+    margin-left: 130px;
+    margin-top: 78px;
+}
+
+.lbl6{
+    position: absolute;
+    scale: 1.5;
+    margin-left: 235px;
+    margin-top: 78px;
+}
+
+#rad1{
+    position: absolute;
+    scale: 1.5;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+#rad2{
+    position: absolute;
+    scale: 1.5;
+    margin-top: 80px;
+    margin-left: 200px;
+}
