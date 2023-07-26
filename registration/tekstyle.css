@@ -44,6 +44,7 @@
 #chk1{
     margin-top: 150px;
     scale: 1.5;
+    accent-color: rgb(0, 157, 0);
 }
 
 .lblpd1{
@@ -59,6 +60,7 @@
     margin-top: 150px;
     scale: 1.5;
     margin-left: 120px;
+    accent-color: rgb(207, 17, 17);
 }
 
 .lblpd2{
@@ -103,7 +105,7 @@
     scale: 1.5;
     margin-top: 80px;
     margin-left: 100px;
-    accent-color: rgb(17, 207, 17);
+    accent-color: rgb(0, 157, 0);
 }
 
 #rad2{
@@ -111,5 +113,145 @@
     scale: 1.5;
     margin-top: 80px;
     margin-left: 200px;
-    accent-color: rgb(17, 207, 17);
+    accent-color: rgb(0, 157, 0);
+}
+
+
+
+.allbt1{
+    height: 60px;
+    width: 170px;
+    border-radius: 5px;
+    border-collapse: collapse;
+    border: 0px solid;
+    margin-top: 140px;
+}
+
+.allbt1>h1{
+    color: white;
+    margin-top: 15px;
+}
+
+.allbt1:active>h1{
+    color: rgb(0, 253, 0);
+    transition: all 0.1s;
+}
+
+
+.allbt2{
+    height: 60px;
+    width: 170px;
+    border-radius: 5px;
+    border-collapse: collapse;
+    border: 0px solid;
+    margin-top: 140px;
+}
+
+.allbt2>h1{
+    color: white;
+    margin-top: 15px;
+}
+
+.allbt2:hover>h1{
+    color: rgb(0, 157, 0);
+    transition: all 0.1s;
+}
+
+
+
+.allbt3{
+    height: 60px;
+    width: 170px;
+    border-radius: 5px;
+    border-collapse: collapse;
+    border: 0px solid;
+    margin-top: 140px;
+}
+
+.allbt3>h1{
+    color: white;
+    margin-top: 15px;
+}
+
+
+
+.allbt4{
+    height: 60px;
+    width: 170px;
+    border-radius: 5px;
+    border-collapse: collapse;
+    border: 0px solid;
+    margin-top: 140px;
+}
+
+.allbt4>h1{
+    color: white;
+    margin-top: 15px;
+}
+
+.allbt4:hover>h1{
+    color: rgb(157, 0, 0);
+    transition: all 0.1s;
+}
+
+
+
+.allbt5{
+    height: 60px;
+    width: 170px;
+    border-radius: 5px;
+    border-collapse: collapse;
+    border: 0px solid;
+    margin-top: 140px;
+}
+
+.allbt5>h1{
+    color: white;
+    margin-top: 15px;
+}
+
+
+
+.allbt6{
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    border: 0px;
+    margin-top: 140px;
+    margin-left: 10px;
+    position: absolute;
+}
+
+.allbt6>h1{
+    scale: 1.5;
+    color: white;
+    margin-top: 15px;
+}
+
+
+
+.allbt7{
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    border: 0px;
+    margin-top: 140px;
+    margin-left: 80px;
+    position: absolute;
+}
+
+.allbt7>h1{
+    scale: 1.5;
+    color: white;
+    margin-top: 11px;
+}
+
+.allbt6:active>h1{
+    color: greenyellow;
+    transition: all 0.2s;
+}
+
+.allbt7:active>h1{
+    color: tomato;
+    transition: all 0.2s;
 }
