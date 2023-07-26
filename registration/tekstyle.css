@@ -103,6 +103,7 @@
     scale: 1.5;
     margin-top: 80px;
     margin-left: 100px;
+    accent-color: rgb(17, 207, 17);
 }
 
 #rad2{
@@ -110,4 +111,5 @@
     scale: 1.5;
     margin-top: 80px;
     margin-left: 200px;
+    accent-color: rgb(17, 207, 17);
 }
