@@ -31,3 +31,24 @@
     border: 1px solid rgb(207, 17, 17);
     border-radius: 3px;
 }
+
+
+
+.lbl2{
+    position: absolute;
+    scale: 1.5;
+    margin-left: 20px;
+    margin-top: 120px;
+}
+
+#chk1{
+    margin-top: 150px;
+    scale: 1.5;
+}
+
+.lblpd1{
+    position: absolute;
+    margin-top: 147px;
+    margin-left: 35px;
+    scale: 1.3;
+}
