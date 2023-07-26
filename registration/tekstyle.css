@@ -38,7 +38,7 @@
     position: absolute;
     scale: 1.5;
     margin-left: 20px;
-    margin-top: 120px;
+    margin-top: 110px;
 }
 
 #chk1{
@@ -50,5 +50,20 @@
     position: absolute;
     margin-top: 147px;
     margin-left: 35px;
+    scale: 1.3;
+}
+
+
+
+#chk2{
+    margin-top: 150px;
+    scale: 1.5;
+    margin-left: 120px;
+}
+
+.lblpd2{
+    position: absolute;
+    margin-top: 147px;
+    margin-left: 155px;
     scale: 1.3;
 }
