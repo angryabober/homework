@@ -28,10 +28,20 @@
 
 #text3{
     height: 40px;
-    width: 550px;
+    width: 250px;
     border: 0px;
     border-bottom: 2px solid rgb(129, 129, 129);
     margin-left: 55px;
+    margin-top: 160px;
+    position: absolute;
+}
+
+#text4{
+    height: 40px;
+    width: 250px;
+    border: 0px;
+    border-bottom: 2px solid rgb(129, 129, 129);
+    margin-left: 355px;
     margin-top: 160px;
     position: absolute;
 }
@@ -40,3 +50,6 @@
     position: absolute;
     margin-top: 160px;
 }
+
+
+
