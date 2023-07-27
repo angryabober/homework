@@ -170,3 +170,29 @@
         margin-left: 330px;
     }
 }
+
+@media screen and (max-width:600px){
+    #text4{
+        margin-top: 220px;
+        margin-left: 55px;
+        width: 550px;
+    }
+    #text3{
+        width: 550px;
+    }
+
+
+
+
+    .pos2{
+        display: none;
+    }
+
+    .pos3{
+        display: none;
+    }
+
+    .pos4{
+        display: none;
+    }
+}
