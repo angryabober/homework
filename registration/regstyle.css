@@ -1,0 +1,42 @@
+#text1{
+    height: 40px;
+    width: 550px;
+    border: 0px;
+    border-bottom: 2px solid rgb(129, 129, 129);
+    margin-left: 55px;
+    position: absolute;
+}
+
+.img1{
+    position: absolute;
+}
+
+#text2{
+    height: 40px;
+    width: 550px;
+    border: 0px;
+    border-bottom: 2px solid rgb(129, 129, 129);
+    margin-left: 55px;
+    margin-top: 80px;
+    position: absolute;
+}
+
+.img2{
+    position: absolute;
+    margin-top: 80px;
+}
+
+#text3{
+    height: 40px;
+    width: 550px;
+    border: 0px;
+    border-bottom: 2px solid rgb(129, 129, 129);
+    margin-left: 55px;
+    margin-top: 160px;
+    position: absolute;
+}
+
+.img3{
+    position: absolute;
+    margin-top: 160px;
+}
