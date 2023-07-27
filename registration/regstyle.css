@@ -135,3 +135,38 @@
     border: 0px;
     border-radius: 5px;
 }
+
+
+
+@media screen and (max-width:900px) and (min-width:600px){
+    .pos2{
+        margin-top: 250px;
+        margin-left: 10px;
+    }
+
+    .pos3{
+        margin-top: -100px;
+    }
+
+    .pos4{
+        margin-top: -100px;
+        margin-left: -630px;
+    }
+
+    #text1{
+        width: 490px;
+    }
+
+    #text2{
+        width: 490px;
+    }
+
+    #text3{
+        width: 215px;
+    }
+
+    #text4{
+        width: 215px;
+        margin-left: 330px;
+    }
+}
