@@ -53,3 +53,85 @@
 
 
 
+.pos2{
+    margin-left: 650px;
+    margin-top: -59px;
+}
+
+#text5{
+    height: 40px;
+    width: 250px;
+    border: 0px;
+    border-bottom: 2px solid rgb(129, 129, 129);
+    position: absolute;
+}
+
+#text6{
+    height: 40px;
+    width: 250px;
+    border: 0px;
+    border-bottom: 2px solid rgb(129, 129, 129);
+    margin-left: 280px;
+    position: absolute;
+}
+
+#text7{
+    height: 40px;
+    width: 250px;
+    border: 0px;
+    border-bottom: 2px solid rgb(129, 129, 129);
+    margin-top: 80px;
+    position: absolute;
+}
+
+#text8{
+    height: 40px;
+    width: 250px;
+    border: 0px;
+    border-bottom: 2px solid rgb(129, 129, 129);
+    margin-top: 80px;
+    margin-left: 280px;
+    position: absolute;
+}
+
+
+
+#chck1{
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 16px;
+    scale: 1.5;
+}
+
+.chcknm1{
+    position: absolute;
+    margin-top: 253px;
+    margin-left: 50px;
+}
+
+#chck2{
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 16px;
+    scale: 1.5;
+}
+
+.chcknm2{
+    position: absolute;
+    margin-top: 303px;
+    margin-left: 50px;
+}
+
+
+
+.btn1{
+    position: absolute;
+    margin-top: 370px;
+    margin-left: 980px;
+    height: 45px;
+    width: 200px;
+    color: white;
+    background-color: rgb(2, 167, 148);
+    border: 0px;
+    border-radius: 5px;
+}

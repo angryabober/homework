@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="/search">
+    <form action="/" method="GEt">
     <div class="pos1">
         <span><h1>Registration from</h1></span>
         <input type="text" id="text1" name="text" placeholder="Username">
@@ -19,6 +19,29 @@
         <img src="pswd.png" class="img3">
     </div>
 
+    <div class="pos2">
+        <span><h1>Personal details</h1></span>
+        <input type="text" id="text5" name="text" placeholder="First name">
+        <input type="text" id="text6" name="text" placeholder="Last name">
+        <input type="text" id="text7" name="list" list="genderlist" placeholder="Gender">
+        <datalist id="genderlist">
+            <option>Male</option>
+            <option>Female</option>
+            <option>Other</option>
+        </datalist>
+        <input type="datetime" id="text8" name="date" placeholder="mm/dd/yyyy">
+    </div>
+
+    <div class="pos3">
+        <input type="checkbox" id="chck1" name="checkbox">
+        <h2 class="chcknm1">I want to recive news and special offers</h2>
+        <input type="checkbox" id="chck2" name="checkbox">
+        <h2 class="chcknm2">I agree with the Terms and Conditions</h2>
+    </div>
+
+    <div class="pos4">
+        <button class="btn1">SUBMIT</button>
+    </div>
     </form>
 </body>
 </html>
