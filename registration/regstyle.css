@@ -182,14 +182,35 @@
     }
 
     .pos2{
-        display: none;
+        margin-top: 350px;
+        margin-left: 50px;
+    }
+
+    #text5{
+        width: 750;
+    }
+
+    #text6{
+        margin-top: 70px;
+        margin-left: 0px;
+    }
+
+    #text7{
+        margin-top: 140px;
+        margin-left: 0px;
+    }
+
+    #text8{
+        margin-top: 210px;
+        margin-left: 0px;
     }
 
     .pos3{
-        display: none;
+        margin-top: 70px;
     }
 
     .pos4{
-        display: none;
+        margin-top: 100px;
+        margin-left: -700px;
     }
 }
