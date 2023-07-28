@@ -49,3 +49,25 @@
     margin-left: 65px;
     scale: 1.1;
 }
+
+
+
+.posbg2{
+    margin-left: 500px;
+    margin-top: -355px;
+    position: absolute;
+}
+
+.posimg{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: -37px;
+}
+
+.slot1{
+    margin-top: 10px;
+}
+
+.slot2{
+    margin-top: 10px;
+}
