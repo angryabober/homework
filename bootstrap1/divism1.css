@@ -1,0 +1,29 @@
+.yourfl {
+    border: 2px solid white;
+    color: white;
+    position: absolute;
+    margin-left: 10px;
+    padding: 5px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.remove {
+    border: 2px solid white;
+    color: white;
+    position: absolute;
+    margin-left: 140px;
+    padding: 5px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.contrllbar{
+    scale: 1.15;
+    margin-left: 20px;
+    margin-top: 15px;    
+}
