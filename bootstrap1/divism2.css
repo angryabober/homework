@@ -48,3 +48,71 @@
     scale: 1.3;
     width: 350px;
 }
+
+#text4{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -30px;
+    scale: 1.3;
+    width: 350px;
+}
+
+#text5{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 30px;
+    scale: 1.3;
+    width: 350px;
+}
+
+#text6{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 90px;
+    scale: 1.3;
+    width: 350px;
+}
+
+.pos1>form>button{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 316px;
+    scale: 1.45;
+    background-color: grey;
+}
+
+.pos2>form>button{
+    position: absolute;
+    margin-top: -30px;
+    margin-left: 316px;
+    scale: 1.45;
+    background-color: grey;
+}
+
+.pos2{
+    margin-left: 535px;
+}
+
+#text6{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -210px;
+    scale: 1.3;
+    width: 350px;
+}
+
+#text7{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -150px;
+    scale: 1.3;
+    width: 350px;
+}
+
+#text8{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -90px;
+    scale: 1.3;
+    width: 350px;
+}
