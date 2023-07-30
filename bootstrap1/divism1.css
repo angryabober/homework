@@ -27,3 +27,49 @@
     margin-left: 20px;
     margin-top: 15px;    
 }
+
+.bgpois2{
+    margin-top: 90px;
+}
+
+.bgpois3{
+    margin-top: 10px;
+}
+
+.smpos1{
+    position: absolute;
+    margin-left: 1160px;
+    margin-top: -90px;
+}
+
+.current{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: rgb(228, 228, 228);
+    border: 2px solid gray;
+}
+
+.reviewed{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: rgb(89, 220, 115);
+    border: 2px solid gray;
+}
+
+.undrrev{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: rgb(0, 137, 161);
+    border: 2px solid gray;
+}
+
+.overdue{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: rgb(220, 116, 116);
+    border: 2px solid gray;
+}
