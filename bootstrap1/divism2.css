@@ -1,0 +1,24 @@
+.menustripe {
+    width: 1200px;
+    height: 50px;
+    background-color: rgb(202, 227, 249);
+    margin-left: 40px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.txt1 {
+    margin-top: 7px;
+    position: absolute;
+}
+
+.avatarreloc>img{
+    scale: 0.7;
+    margin-top: -10px;
+}
+.avatarreloc>button{
+    background-color: grey;
+    color: white;
+    margin-top: 210px;
+    margin-left: -200px;
+}
