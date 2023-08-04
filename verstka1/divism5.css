@@ -80,6 +80,11 @@
     scale: 0.6;
 }
 
+.bgpossm>table{
+    scale: 0.5;
+    margin-top: -800px;
+}
+
 .tablimg4 {
     margin-top: 430px;
     position: absolute;
@@ -171,6 +176,10 @@
     .bgpossm{
         display: none;
     }
+
+    html{
+        zoom: 67%;
+    }
 }
 
 @media screen and (max-width:600px) and (min-width:250px) {
@@ -194,6 +203,6 @@
     }
     
     .bgposbtm {
-        display: none;
+        margin-top: -700px;
     }
 }
