@@ -100,7 +100,8 @@
     padding-top: 25px;
     padding-bottom: 25px;
     position: absolute;
-    margin-top: 1590px;
+    margin-top: 200px;
+    margin-left: 23px;
 }
 
 .mnpos3>h2 {
@@ -109,12 +110,11 @@
 
 .mnpos3>h1 {
     margin-top: -35px;
-    margin-left: 590px;
 }
 
 .bgposbtm {
     position: absolute;
-    margin-top: 300px;
+    margin-top: 400px;
     scale: 1.2;
     margin-left: 170px;
 }
