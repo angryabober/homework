@@ -144,8 +144,8 @@
 
 
 
-@media screen and (min-width:600px) {
-    .hdbg2 {
+@media screen and (max-width:600px) {
+    .hdbg {
         display: none;
     }
 
@@ -157,6 +157,14 @@
     }
 
     .bgpossm{
+        display: none;
+    }
+
+    .bgposmain{
+        display: none;
+    }
+    
+    .bgposbtm {
         display: none;
     }
 }
