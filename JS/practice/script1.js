@@ -1,4 +1,7 @@
-alert(num1 + num2)
+var num1;
+num1 = '5';
 
-num1 = 5;
-num2 = 7;
+var num2;
+num2 = '7';
+
+alert(num1 + num2);
