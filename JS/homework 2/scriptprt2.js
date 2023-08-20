@@ -1,4 +1,3 @@
-let welcomeMessage = "Добро пожаловать,администратор!"
 let username = prompt('кто вы?')
 
 if (username == 'admin') {
