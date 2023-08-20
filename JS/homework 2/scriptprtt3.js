@@ -1,14 +1,10 @@
-let a = prompt('число 1')
-let b = prompt('число 2')
+let num = 7
+let answr = (num % 2);
 
-if (a > b) {
-    alert('A > B')
+if (answr = 0); {
+    alert('число чётное');
 }
 
-if (a < b) {
-    alert('A < B')
-}
-
-if (a = b) {
-    alert('A = B')
+if (answr > 0); {
+    alert('число не чётное');
 }
