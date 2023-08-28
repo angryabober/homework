@@ -1,4 +1,4 @@
-const GBMB = 1024;
+const GBMB = 820;
 let flashka = Number(prompt('объём флэшки в ГБ'));
 let size = (flashka * 1000 / GBMB);
 if (size < 0) {
