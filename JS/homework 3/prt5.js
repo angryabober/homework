@@ -1,31 +1,32 @@
-let num = prompt('введите число от 0 до 9')
+let num = prompt('введите число от 0 до 9');
+num = Number(num);
 if (num = 0) {
-    alert(')')
+    alert(')');
 }
 if (num = 1) {
-    alert('!')
+    alert('!');
 }
 if (num = 2) {
-    alert('@')
+    alert('@');
 }
 if (num = 3) {
-    alert('#')
+    alert('#');
 }
 if (num = 4) {
-    alert('$')
+    alert('$');
 }
 if (num = 5) {
-    alert('%')
+    alert('%');
 }
 if (num = 6) {
-    alert('^')
+    alert('^');
 }
 if (num = 7) {
-    alert('&')
+    alert('&');
 }
 if (num = 8) {
-    alert('*')
+    alert('*');
 }
 if (num = 9) {
-    alert('(')
+    alert('(');
 }
