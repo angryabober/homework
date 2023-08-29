@@ -1,10 +1,11 @@
 let min = 0;
-let max = 3;
+let max = 100;
 let num = Math.floor(Math.random() * (max - min + 1)) + min;
 let answr = prompt('введите число');
-if (answr == num) {
+answr = Number(answr)
+if (num == answr) {
     alert('вы угадали');
 }
-else{
-    ('попробуйте ещё');
+else {
+    alert('вы не угадали')
 }
